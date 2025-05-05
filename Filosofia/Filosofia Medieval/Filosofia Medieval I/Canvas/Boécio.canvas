@@ -1,0 +1,39 @@
+{
+	"nodes":[
+		{"id":"6d718f7c1b4e5ae7","type":"text","text":"BEM","x":-417,"y":-180,"width":250,"height":60,"color":"1"},
+		{"id":"bec75c7c067c92cc","type":"text","text":"Boécio","x":-606,"y":-453,"width":250,"height":60},
+		{"id":"04c84f2e8f7ec1c2","type":"text","text":"Todas as coisas \"Que são\", são boas","x":-274,"y":-519,"width":250,"height":60},
+		{"id":"2fe6837b1726c214","type":"text","text":"Tudo o que é semelhante tende para o semelhante","x":23,"y":-606,"width":250,"height":60},
+		{"id":"99d2eaa6978d95a4","type":"text","text":"Tudo o que tende para o bem, é bom","x":-731,"y":-174,"width":250,"height":60},
+		{"id":"9a7d6cec2de732a7","type":"text","text":"Por Participação","x":-289,"y":7,"width":250,"height":60},
+		{"id":"89ec9edbf625c287","type":"text","text":"Substâncial","x":-634,"y":3,"width":250,"height":60},
+		{"id":"752844400cb0c881","type":"text","text":"Como tudo o que é de semelhante, tende para semelhante, tudo o que é Bom por participação, não é bom por si, e portanto não tende para o bem.","x":-234,"y":192,"width":250,"height":208},
+		{"id":"a4407540d3aecde4","type":"text","text":"O que é bom, é bom por si. \nTodas as substâncias são boas \nO Ser - Deus - e o Bem coincidem e portanto, como nós somos fruto dele, provimos dele, nós somos bons por semelhança a ele - substâncialmente.\nO que é bom de duas uma, ou é Deus ou é de Deus","x":-741,"y":228,"width":250,"height":412},
+		{"id":"98968682a5e9b624","type":"text","text":"É o primeiro princípio, que por acaso também se interseta com o Ser","x":-1097,"y":-364,"width":250,"height":124},
+		{"id":"d500500c91cfecfa","type":"text","text":"Deus","x":-1571,"y":-187,"width":250,"height":60},
+		{"id":"9e1c757794c7be76","type":"text","text":"As \"coisas\"","x":-1263,"y":178,"width":250,"height":60},
+		{"id":"8899442e35bfbed1","type":"text","text":"São bens secundarios, por provirem de Deus e este ser o Bem primário. \nO que acontece é que nós emanamos o Bem por Deus, o Ser antecede o que é, mas como se intercepta na sua Bondade, então podemmos afirmar que somos bons por Deus. \n==Mas não somos bens substânciais. Deus, o Ser, é o uncio bem substâncial - ele é semelhante ao bem por interceção ao bem. E tende a ser semelhante a ele mesmo.\nTende para si.==","x":-1281,"y":301,"width":250,"height":339},
+		{"id":"9086ab5f696bc101","type":"text","text":"AS coisas são boas por existência - ==só são boas porque Deus só cria coisas boas, e quis que eles existissem, e portanto são boas==.","x":-1746,"y":203,"width":250,"height":197},
+		{"id":"8d41b3a6a987553e","type":"text","text":"Nós somos bem por vontade de Deus. Não participamos de Deus, somos a sua criação, e por provirmos dele emanamos a sua bondade.\n","x":-1287,"y":769,"width":250,"height":171},
+		{"id":"c2416573b92e032b","type":"text","text":"Boécio tenta separar o ser das coisas ,e tenta susbtâncializar as coisas por qualiades. Se o bem fosse um acidente, em ultima instância as coisas seriam o próprio Bem. Mas multiplas coisas não podem ser tal coisa.\nPorque haveriam multiplos bens. Mas só existe um unico bem, e esse bem interseta-se com Deus.\nDeus, em si, é bom. Nós somos um ser determinado por Deeus e portanto somos bons porque, por sermos obra d?ele, emanamos, flui em nós o Bem. Mas não somos alguma vez o Bem. Somos seres complexos que podem praticar o mal. E portanto seria errado afirmar sermos bens substânciais\n==A ação em Deus é sempre boa e justa, em nós não é verdade isto==.","x":-1920,"y":645,"width":491,"height":418}
+	],
+	"edges":[
+		{"id":"662c8a6cf1a6411f","fromNode":"bec75c7c067c92cc","fromSide":"right","toNode":"04c84f2e8f7ec1c2","toSide":"left"},
+		{"id":"4b102a3eaf79845d","fromNode":"04c84f2e8f7ec1c2","fromSide":"right","toNode":"2fe6837b1726c214","toSide":"left"},
+		{"id":"ea411b454eb66cc1","fromNode":"6d718f7c1b4e5ae7","fromSide":"top","toNode":"04c84f2e8f7ec1c2","toSide":"bottom","fromEnd":"arrow"},
+		{"id":"8acea9a6891034bc","fromNode":"2fe6837b1726c214","fromSide":"bottom","toNode":"6d718f7c1b4e5ae7","toSide":"right"},
+		{"id":"31d2f698e96f8730","fromNode":"6d718f7c1b4e5ae7","fromSide":"left","toNode":"99d2eaa6978d95a4","toSide":"right"},
+		{"id":"98d38b8283b8f726","fromNode":"6d718f7c1b4e5ae7","fromSide":"bottom","toNode":"9a7d6cec2de732a7","toSide":"top"},
+		{"id":"af9dd4b2881b2f68","fromNode":"6d718f7c1b4e5ae7","fromSide":"bottom","toNode":"89ec9edbf625c287","toSide":"top"},
+		{"id":"65df7d5ba050bf1c","fromNode":"9a7d6cec2de732a7","fromSide":"bottom","toNode":"752844400cb0c881","toSide":"top"},
+		{"id":"b18b4b2bb0527a26","fromNode":"89ec9edbf625c287","fromSide":"bottom","toNode":"a4407540d3aecde4","toSide":"top"},
+		{"id":"304f92cf83f12ae8","fromNode":"6d718f7c1b4e5ae7","fromSide":"left","toNode":"98968682a5e9b624","toSide":"right"},
+		{"id":"59e9e9a110386508","fromNode":"98968682a5e9b624","fromSide":"left","toNode":"d500500c91cfecfa","toSide":"right"},
+		{"id":"b710d4220cce458e","fromNode":"d500500c91cfecfa","fromSide":"bottom","toNode":"89ec9edbf625c287","toSide":"left","label":"Que cria as substâncias"},
+		{"id":"1a74aed71898de9a","fromNode":"89ec9edbf625c287","fromSide":"bottom","toNode":"9e1c757794c7be76","toSide":"top"},
+		{"id":"c689a4b6b440e1c8","fromNode":"9e1c757794c7be76","fromSide":"bottom","toNode":"8899442e35bfbed1","toSide":"top"},
+		{"id":"2a03405de46fcf71","fromNode":"9e1c757794c7be76","fromSide":"left","toNode":"9086ab5f696bc101","toSide":"right"},
+		{"id":"8735b3eddcfd3aba","fromNode":"8899442e35bfbed1","fromSide":"bottom","toNode":"8d41b3a6a987553e","toSide":"top"},
+		{"id":"82181077a457eeca","fromNode":"8d41b3a6a987553e","fromSide":"left","toNode":"c2416573b92e032b","toSide":"right"}
+	]
+}

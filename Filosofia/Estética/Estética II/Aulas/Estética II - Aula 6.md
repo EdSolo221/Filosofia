@@ -1,0 +1,39 @@
+- Retomamos os termos da aula passada
+- A matiz grega vai prolongar-se na idade média, no Renascimento e nos princípioos da idade moderna. Uma das funções da *Estética* de Baumgarten (1750) é o de dar alguma unidade à compreensão das artes, ao mesmo tempo que recupera e aprofunda o lugar central da sensibilidade.
+- A estética (*aisthesis*), enquanto ciência do conhecimento sensível, remete para o produzir, a habilidade e a inteligência necessárias para a realização das artes que têm como fim a beleza. Mas a estética remete também para a própria experiência estética do espectador ou do leitor. Há um desdobramento do campo do sensível.
+- __Mas atenção__: O fazer poético e a reflexão sobre o espectador atravessam a *Poética*, mesmo que não haja uma tematização explícita do "espectador" ou da "experiência estética". A catarse, por exemplo, visa __efeitos no público que são individuais e comunitário__, até no __sentido ético do termo__.
+
+- Outros dois temas importantes na arte da Poética
+- Relembrem a história de *Rei Édipo![[Poética de Aristóteles.pdf]]*
+- *__Peripécia é a mudança dos acontecimentos para o seu reverso__*
+- *Assim, no Édipo, o mensageiro que chega com a intenção de alegrar Édipo e deo o libertar dos seus receios em relação à mãe*
+- __Reconhecimento__ *é a passagem da ignorância para o conhecimento, para a amizade ou para o ódio entre aqueles que estão destinados à felicidade ou à infelicidade.*
+- Édipo __tinha__ de conhecer. As coisas __tinham de acontecer__.
+- *Portanto, estas são duas partes do enredo: peripécia e reconhecimento. A terceira é __o sofrimento__ (pathos)*
+- É um ato destruidor ou doloroso, tal como as mortes em cena, grandes dores e ferimentos e coisas do género.
+- A partir do capítulo 16, 1454b (pág 69), fala-nos do reconhecimento por sinais. Depois os que são dados pelo poeta e são sem arte. Os que levam a serem conhecidos pelo raciocínio.
+- Mas o melhor é aquele que __decorre dos atos cometidos__ - da própria __estruturação do enredo. De como a narrativa poética está estruturada__
+- No capítulo 19, temos a __elocução e pensamento__. No modo de dizer as coisas, da fonética e da gramática. Talvez das partes mais técnicas da Poética
+- 1457b *Toda a palavra é ou corrente ou rara* (o que os outros falam )*ou metáfora ou ornamento ou inventada ou alongada ou abreviada ou modificada.*
+- A metáfora é a transferência de uma palavra que pertence a outra coisa, do género, para espécie para....
+- O que é importante enfatizar é : metáfora como recurso expressivo, onde se usa um termo e uma ideia com o qual mantêm uma certa semelhança.
+- Mais abaixo, 1459a, *é importatne aplicar convenientemente cada um dos modos de expressão mencionados - ser acima de tudo bom nas metáforas* __Esta é a grande coisa que um poeta deve ter. O seu grande talento é nas metáforas__
+- Estamos a falar da mimesis como imitação. A imitação com um faculdade humana.
+- Mas temos uma outra relação: a capacidade que __o poeta tem de ver semelhanças nas coisas outras__.
+- Não é um ser causal, mas meter as coisas lado a lado e comparar.
+- Esta potência, esta dynamis mimética, conseguimos identificar semelhanças no objeto.
+- Não só vemos a capacidade de ver as semelhanças mas também de as __relacionar__
+- No caso da tragédia, temos a relação da __ação com a vida__, na questão das __consequências__.
+- Indo para 1460a: *Homero, sendo digno de louvor por muitos motivos, é-o em especial porque é o único poeta que __não ignora o que lhe compete a ele fazer*__
+- O poeta em si deve dizer o menos possível. Não criar floreados. Para o fim da criação de um obra de arte. Pois não é isso que faz a obra.
+- *Ele, pelo contrário, depois de fazer um __breve preâmbulo__, põe imediatamente em cena um homem e uma mulher...* - não pode perder muito tempo o poeta
+- Não é preciso meter as personagens em cena, porque já a estamos a experiênciar.
+- *Homero ensinou outros poetas a dizer __falsidades da maneira certa__*
+- Se o poeta criar algo falso, vai também criar um conjunto de falsidades. Mas estão tão bem conexas que, quando o enredo se desenrola, __enganamos o público a pensar que todas são verdadeiras e fazem sentido__.
+- *Dever __preferir-se o impossível verosímil ao possível inverosímil__* - é preferível enganar, faze-lo aderir, à tragédia e à epopeia.
+- 1460b: *Uma vez que o poeta é um imitador, como um pintor ou qualquer outro criador de imagens, imita sempre necessariamente 3 coisas possíveis: ou as coisas como eram ou são realmente, ou como dizem e parecem, ou como deviam ser. E isto exprime-se através da elocução em que há palavras raras, metáforas e muitas modificações da linguagem: a ideia da correção da política e da poética não é a mesma, nem a de outra arte e da poética* - 
+	- Temos aqui uma resposta a Platão e a crítica que Platão fez. Essa crítica não teve simplesmente a ver com a __beleza__. O que lhe interessa é a ética e a política, e não o belo. Os poetas mentem. Isto é perigoso - ética - e para a cidade ideal, os poetas são perigosos, porque desvirtuam o real, __a correção__, para o político da cidade, e portanto, para a cidade. Aristóteles diz: fds, estes manos são fixes ó Platão. Chilla. Não são perigosos. Mesmo políticamente é importante, porque tem o sentido de coesão e comunitário, que ensina a ética perante as suas obras. Os ambitos são separados. Aristóteles mostra que não é tudo assim tão mau. A poética tem também coisas positivas a dar à comunidade.
+- __Algumas notas conclusivas sobre *A Poética*__
+	- A imitação aristotélica não se reduz a uma ideia ingénua de imitação da natureza (de tudo aquilo que existe). A arte desnatura, é uma imitação transfiguradora , que procura um ideal imanente ao ser humano e não a adequação a uma ideia transcendente.
+	- A Poética tem um dimensão normativa, como é característico  da estética clássica. Mas não é normativa no sentido de que visa uma adequação o mais fiel possível ao representado, a fidelidade a um modelo exterior à criação; é normativa pois analisa as condições e as regras para a apresentação (com palavras, o enredo, ritmo, etc...) de uma produção cuja finalidade é uma obra bela.
+	

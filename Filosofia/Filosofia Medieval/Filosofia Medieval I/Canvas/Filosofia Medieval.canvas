@@ -1,0 +1,16 @@
+{
+	"nodes":[
+		{"id":"776840f6e589bdd3","x":-241,"y":-1,"width":250,"height":60,"type":"text","text":"[[Maniqueísmo]]"},
+		{"id":"0c703e1b728c28dd","x":37,"y":-1,"width":250,"height":60,"type":"text","text":"[[Bem]]"},
+		{"id":"5a70a992f76dc503","x":360,"y":-1,"width":250,"height":60,"type":"text","text":"[[Deus]]"},
+		{"id":"f973fd24d2f84ecb","x":140,"y":-320,"width":250,"height":60,"type":"text","text":"[[Severino Boécio]]"},
+		{"id":"8ce1d17c130a077f","x":-213,"y":-320,"width":250,"height":60,"type":"text","text":"[[Santo Agostinho de Hipona]]"}
+	],
+	"edges":[
+		{"id":"884e8f26d43709d6","fromNode":"8ce1d17c130a077f","fromSide":"bottom","toNode":"776840f6e589bdd3","toSide":"top"},
+		{"id":"63b9500c673d2681","fromNode":"8ce1d17c130a077f","fromSide":"bottom","toNode":"0c703e1b728c28dd","toSide":"top"},
+		{"id":"8d8ffa79f33fa0b4","fromNode":"f973fd24d2f84ecb","fromSide":"bottom","toNode":"0c703e1b728c28dd","toSide":"top"},
+		{"id":"030d53af7b4a4a1d","fromNode":"8ce1d17c130a077f","fromSide":"bottom","toNode":"5a70a992f76dc503","toSide":"top"},
+		{"id":"2f1de8ffc567d389","fromNode":"f973fd24d2f84ecb","fromSide":"bottom","toNode":"5a70a992f76dc503","toSide":"top","label":"O Ser"}
+	]
+}

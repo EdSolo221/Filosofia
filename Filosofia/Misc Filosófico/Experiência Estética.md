@@ -1,0 +1,1 @@
+Remete para um modo do "Ser Humano" ser __afetado__, supondo sempre uma afetação que resulta: __na emoção, sensibilidade,...__

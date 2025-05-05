@@ -1,0 +1,37 @@
+{
+	"nodes":[
+		{"id":"aedebbf2614153be","type":"text","text":"O enunciado epistemológico tem significado\n","x":-257,"y":-431,"width":250,"height":60},
+		{"id":"677a51eda015d803","type":"text","text":"Questão de Facto","x":-597,"y":-428,"width":250,"height":60},
+		{"id":"b9fd8950df16012a","type":"text","text":"Observação","x":-280,"y":-200,"width":250,"height":60},
+		{"id":"d1ce63023cbe10fd","type":"text","text":"Verificabilidade","x":-280,"y":-20,"width":250,"height":50},
+		{"id":"59c545fb4dc9f98f","type":"text","text":"Verificar casos em que a questão de facto é verificável ","x":-598,"y":-660,"width":250,"height":121},
+		{"id":"d05212056fab48e9","type":"text","text":"Lei Geral: até não ser verificável, é indutivamente uma lei geral da vida.","x":-277,"y":182,"width":250,"height":118},
+		{"id":"d7597312527c78e6","type":"text","text":"Forte","x":-498,"y":385,"width":250,"height":60},
+		{"id":"18e5033ffda8b6d1","type":"text","text":"temos de ter constantemente observação empírica dos enunciados empíricos para poder dizer que é lei.","x":-855,"y":289,"width":250,"height":156},
+		{"id":"01e562faa06af74f","type":"text","text":"Fraco","x":-51,"y":382,"width":250,"height":60},
+		{"id":"43cc0cd2c462d805","type":"text","text":"Não só pode ser apoiada por outras conclusões anteriores, como pode ser uma lei geral provável.","x":250,"y":174,"width":370,"height":126},
+		{"id":"dca3fb4186fa3b37","type":"text","text":"Tautologia","x":435,"y":-488,"width":250,"height":60},
+		{"id":"904287c7803d4156","type":"text","text":"# Verificabilidade\n\nTeoria -> Previsão\nPrevisão\nlogo Teoria.\n\n### Falácia da afirmação do consequente","x":-304,"y":-780,"width":554,"height":241},
+		{"id":"ca31e199554a5bd3","type":"text","text":"Forte ","x":-5,"y":-1061,"width":250,"height":60},
+		{"id":"8c9a564c3fc133ae","type":"text","text":"A verdade é defenitivamente establecida pela experiência","x":298,"y":-1061,"width":250,"height":141},
+		{"id":"7f9f77199933a72c","x":352,"y":-704,"width":268,"height":105,"type":"text","text":"Fraco: a verdade é possivle pela experiência."}
+	],
+	"edges":[
+		{"id":"992fe07c4a6fecdf","fromNode":"b9fd8950df16012a","fromSide":"bottom","toNode":"d1ce63023cbe10fd","toSide":"top"},
+		{"id":"b6424ac5e403e516","fromNode":"aedebbf2614153be","fromSide":"right","toNode":"dca3fb4186fa3b37","toSide":"left"},
+		{"id":"2748b384cba816bf","fromNode":"d1ce63023cbe10fd","fromSide":"right","toNode":"dca3fb4186fa3b37","toSide":"bottom","label":"Se é tautologia é verdadeiro so nothing to do here - é verificável."},
+		{"id":"666ca094a14c5541","fromNode":"aedebbf2614153be","fromSide":"left","toNode":"677a51eda015d803","toSide":"right"},
+		{"id":"24316a89b4e6ffcf","fromNode":"677a51eda015d803","fromSide":"bottom","toNode":"b9fd8950df16012a","toSide":"top"},
+		{"id":"e91382c2a48634b6","fromNode":"dca3fb4186fa3b37","fromSide":"bottom","toNode":"b9fd8950df16012a","toSide":"top"},
+		{"id":"a65f364fa78bd854","fromNode":"d1ce63023cbe10fd","fromSide":"left","toNode":"677a51eda015d803","toSide":"bottom"},
+		{"id":"9854c46ac9d6d302","fromNode":"677a51eda015d803","fromSide":"top","toNode":"59c545fb4dc9f98f","toSide":"bottom"},
+		{"id":"9ec4873a793abc0f","fromNode":"d1ce63023cbe10fd","fromSide":"bottom","toNode":"d05212056fab48e9","toSide":"top"},
+		{"id":"5f52b0c3f542182a","fromNode":"d05212056fab48e9","fromSide":"bottom","toNode":"d7597312527c78e6","toSide":"top"},
+		{"id":"efac39a90b4ad503","fromNode":"d7597312527c78e6","fromSide":"left","toNode":"18e5033ffda8b6d1","toSide":"right"},
+		{"id":"54a92724557629c1","fromNode":"d05212056fab48e9","fromSide":"bottom","toNode":"01e562faa06af74f","toSide":"top"},
+		{"id":"f43eb015576b8913","fromNode":"01e562faa06af74f","fromSide":"right","toNode":"43cc0cd2c462d805","toSide":"left"},
+		{"id":"2da7528881243ea9","fromNode":"904287c7803d4156","fromSide":"top","toNode":"ca31e199554a5bd3","toSide":"bottom"},
+		{"id":"0992c23ccdbe39db","fromNode":"ca31e199554a5bd3","fromSide":"right","toNode":"8c9a564c3fc133ae","toSide":"left"},
+		{"id":"e1e3d00e4bf85585","fromNode":"904287c7803d4156","fromSide":"right","toNode":"7f9f77199933a72c","toSide":"left"}
+	]
+}

@@ -1,0 +1,1 @@
+Remete para __o que afeta__ - não só ==configurada em obras de arte==, mas sim ==na natureza e até na vida==.

@@ -1,0 +1,31 @@
+{
+	"nodes":[
+		{"id":"3b9e374259bbf129","type":"group","x":560,"y":33,"width":593,"height":290,"color":"1","label":"Contexto da Justificação"},
+		{"id":"a0e2f956f2ff3af5","type":"group","x":-290,"y":482,"width":1354,"height":103,"color":"5","label":"Resposta ao Indutivismo - é assim que nós funcionamos."},
+		{"id":"13da1dec3f031189","type":"group","x":-215,"y":33,"width":475,"height":100,"color":"4","label":"Contexto da descobrimento"},
+		{"id":"cfcd095897053833","type":"text","text":"Problema","x":-195,"y":53,"width":135,"height":60},
+		{"id":"8b252a3f035bbff2","type":"text","text":"Teoria/Conjetura","x":54,"y":53,"width":186,"height":60},
+		{"id":"247f4578c5c475e4","type":"text","text":"# Pergunta aqui:\nOnde temos o empirismo?\nO Popper não aceita a leitura positiva - ir à procura de casos positivos e afirmar uma teoria, isto é uma falácia.\nPara ele, é um empirismo negativo: só no contexto da Justificação: ir à procura de previsões falsas - encontrar casos contrários.","x":70,"y":-310,"width":570,"height":210},
+		{"id":"379700090fe2c4ce","type":"text","text":"# Modus Tollens\nTeoria -> Previsão\n\nNão previsão\nlogo Não Theory\n(meter foto)\n","x":726,"y":-298,"width":494,"height":238,"color":"6"},
+		{"id":"6f913eedb261a2a7","type":"text","text":"Teoria é corroborada","x":919,"y":243,"width":250,"height":60},
+		{"id":"cfd558d79d1b300e","type":"text","text":"Testes","x":844,"y":55,"width":250,"height":59},
+		{"id":"70764411ef7a8abf","type":"text","text":"Teoria é falsa","x":598,"y":243,"width":250,"height":60},
+		{"id":"531ab81795bf016b","type":"text","text":"Expectativa","x":-270,"y":502,"width":250,"height":60},
+		{"id":"86c97a161734b8e4","type":"text","text":"Repetição","x":267,"y":505,"width":250,"height":60},
+		{"id":"d7dc8229becf8dcf","type":"text","text":"Expectativa","x":794,"y":502,"width":250,"height":60},
+		{"id":"f87356de8df40f5f","type":"text","text":"# Nota: \nNão há empirismo\nNão há merda nenhuma. Popper tenta não se preocupar filosóficamente com o momento da descoberta - isso devia ser para os psicólogos. Portanto, o Empirismo é só evidenciado: na procura de uma falsificação da Teoria.","x":-1080,"y":285,"width":577,"height":247,"color":"1"},
+		{"id":"b67ec6bcfc6db42c","x":1305,"y":-360,"width":575,"height":474,"color":"2","type":"text","text":"# O que não é testável/falsificado?\n\n# Tautologias - porque são sempre verdadeiras.\n# Enunciados Vagos - Astrologia\n# Particulares/existenciais - \nA negação de algo particular é a inexistência de algo.\nComo negar Algum?\nNenhum.\nExistem Unicórnios?\nNão existem nenhuns Unicórnios.\nNão consegues ter nenhum enunciado observacional Universal - é por isso que ele vai pela negativa: encontrar algo que exista que prove algo que tbm existe erradamente."}
+	],
+	"edges":[
+		{"id":"2bc18f804d1d986a","fromNode":"cfcd095897053833","fromSide":"right","toNode":"8b252a3f035bbff2","toSide":"left"},
+		{"id":"688f3d870562a759","fromNode":"8b252a3f035bbff2","fromSide":"right","toNode":"cfd558d79d1b300e","toSide":"left"},
+		{"id":"5080ac87384ede62","fromNode":"cfd558d79d1b300e","fromSide":"bottom","toNode":"6f913eedb261a2a7","toSide":"top"},
+		{"id":"49cfb1c6beab2c72","fromNode":"6f913eedb261a2a7","fromSide":"right","toNode":"cfd558d79d1b300e","toSide":"right"},
+		{"id":"abbefbf9cccf2494","fromNode":"cfd558d79d1b300e","fromSide":"bottom","toNode":"70764411ef7a8abf","toSide":"top"},
+		{"id":"e9df2bb67005655c","fromNode":"70764411ef7a8abf","fromSide":"bottom","toNode":"8b252a3f035bbff2","toSide":"bottom","label":"Fazer uma teoria melhor"},
+		{"id":"d9a424266d005cd0","fromNode":"531ab81795bf016b","fromSide":"right","toNode":"86c97a161734b8e4","toSide":"left"},
+		{"id":"8db951e53c4ceddd","fromNode":"86c97a161734b8e4","fromSide":"right","toNode":"d7dc8229becf8dcf","toSide":"left"},
+		{"id":"7eb02eaca832deb4","fromNode":"d7dc8229becf8dcf","fromSide":"bottom","toNode":"86c97a161734b8e4","toSide":"bottom"},
+		{"id":"47150d03b23b8aee","fromNode":"cfcd095897053833","fromSide":"bottom","toNode":"f87356de8df40f5f","toSide":"top"}
+	]
+}
